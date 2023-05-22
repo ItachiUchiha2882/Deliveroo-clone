@@ -49,6 +49,7 @@ const HomeScreen = () => {
               keyboardType='default'
             />
           </View>
+          
 
           <AdjustmentsVerticalIcon color="#00CCBB" />
         </View>
